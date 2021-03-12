@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vuong-Chu.
 
-- 👀 I’m interested in bringing all Finance related formulae to Python and Java.
+- 👀 I’m interested in bringing all Finance related formulae to Java and Python.
 
 - 🌱 I’m currently learning Financial Econometrics, Java and Python.
 
