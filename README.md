@@ -6,6 +6,8 @@
 
 - 🔎 I’m looking to collaborate on projects related to financial time series data.
 
-- 📫 How to reach me ...hmmm! Ez ... via this Github. 
+- 📫 How to reach me ...hmmm! Ez ... via this Github.
+
+- 🔰 I love swimming, cycling and coding challenges.
 
 
