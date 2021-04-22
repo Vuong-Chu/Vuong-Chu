@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/39608.jpg" width="100%" height="100%">
+<img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Space.jpg" width="100%" height="100%">
 
 - 👋 Hi, I’m @Vuong-Chu.
 
