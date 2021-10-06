@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @Vuong-Chu.
 
-- 💖 I’m interested in bringing all Financial formulae and Econometrics method to Java and Python.
+- 💖 I’m interested in bringing all Financial formulae and Econometrics method to C++, Java, and Python.
 
-- 🌱 I’m currently learning Financial Econometrics, Java and Python.
+- 🌱 I’m currently learning Financial Econometrics, C++, Java, and Python.
 
 - 🔎 I’m looking to collaborate on projects related to financial time series data.
 
