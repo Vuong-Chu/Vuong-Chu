@@ -1,4 +1,4 @@
-<img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.jpg" width="100%" height="100%">
+<img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/10.gif" width="100%" height="100%">
 
 - 👋 Hi, I’m @Vuong-Chu.
 
