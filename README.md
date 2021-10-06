@@ -13,7 +13,7 @@
 - 🔰 I love swimming, cycling and coding challenges.
 
 
-[![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=radical&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vuong-Chu&layout=compact&hide=javascript,html,css,TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=radical&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vuong-Chu&layout=compact&hide=javascript,html,css,TeX,Python)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
