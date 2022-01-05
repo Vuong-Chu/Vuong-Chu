@@ -1,8 +1,6 @@
 <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.jpg" width="100%" height="100%">
 
-### Hi there, I’m @Vuong-Chu. 👋
-
-<br/>
+## Hi there, I’m @Vuong-Chu. 👋
 
 - 💖 I’m interested in bringing all Financial Econometrics method to C++, Java, and Python.
 
