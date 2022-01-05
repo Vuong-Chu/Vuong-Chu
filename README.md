@@ -12,9 +12,6 @@
 
 - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com
 
-<br/>
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/c.svg" />
