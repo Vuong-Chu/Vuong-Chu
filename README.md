@@ -12,6 +12,13 @@
 
 - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com
 
+<br>
+<br>
+### Languages and Tools:
+<img align="left" alt="C++" width="26px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/c.svg" />
+
+<br>
+<br>
 
 [![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=buefy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
