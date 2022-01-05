@@ -14,6 +14,8 @@
 
 - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/python.svg" />
@@ -24,6 +26,7 @@
 
 <br>
 
+---
 
 ### Github stats:
 
