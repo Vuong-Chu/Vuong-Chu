@@ -2,15 +2,17 @@
 
 ### Hi there, I’m @Vuong-Chu. 👋
 
-- 💖 I’m interested in bringing all Financial formulae and Econometrics method to C++, Java, and Python.
+- 💖 I’m interested in bringing all Financial Econometrics method to C++, Java, and Python.
 
-- 🌱 I’m currently learning Financial Econometrics, C++, Java, and Python.
+- 🌱 I’m currently targeting Quant developer/ Quant analyst/ Quant researcher positions.
 
 - 🔎 I’m looking to collaborate on projects related to financial time series data.
 
 - 🔰 I love swimming, cycling and coding challenges.
 
 - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com
+
+<br/>
 
 ### Languages and Tools:
 
@@ -20,8 +22,10 @@
 <img align="left" alt="R" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
 <img align="left" alt="PowerBI" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
 
+
 <br/>
-<br/>
+
+### Github stats:
 
 [![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=buefy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
