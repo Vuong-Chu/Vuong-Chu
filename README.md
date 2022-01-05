@@ -1,12 +1,12 @@
 <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.jpg" width="100%" height="100%">
 
-<br/>
-
 ### Hi there, I’m @Vuong-Chu. 👋
+
+<br/>
 
 - 💖 I’m interested in bringing all Financial Econometrics method to C++, Java, and Python.
 
-- 🌱 I’m currently targeting Quant developer/ Quant analyst/ Quant researcher positions.
+- 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions.
 
 - 🔎 I’m looking to collaborate on projects related to financial time series data.
 
