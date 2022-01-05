@@ -1,5 +1,7 @@
 <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.jpg" width="100%" height="100%">
 
+<br/>
+
 ### Hi there, I’m @Vuong-Chu. 👋
 
 - 💖 I’m interested in bringing all Financial Econometrics method to C++, Java, and Python.
@@ -12,8 +14,6 @@
 
 - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com
 
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/python.svg" />
@@ -22,7 +22,7 @@
 <img align="left" alt="R" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
 <img align="left" alt="PowerBI" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
 
-<br/>
+<br>
 
 
 ### Github stats:
