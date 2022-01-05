@@ -24,8 +24,6 @@
 <img align="left" alt="R" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
 <img align="left" alt="PowerBI" width="50px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
 
-<br />
-
 ---
 
 ### Github stats:
