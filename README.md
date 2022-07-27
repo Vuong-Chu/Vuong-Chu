@@ -2,7 +2,7 @@
 
 ## Hi there, I’m @Vuong-Chu. 👋
 
-- 💖 I’m interested in translating all Financial Econometrics method to functions in C++, Python, and Java.
+- 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java.
 
 - 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions.
 
