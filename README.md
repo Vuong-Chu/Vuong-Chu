@@ -23,7 +23,7 @@
 <img align="left" alt="R" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
 <img align="left" alt="PowerBI" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)">
 
 <br />
 <br />
