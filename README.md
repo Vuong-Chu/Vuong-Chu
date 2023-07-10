@@ -27,12 +27,12 @@
 
 ---
 
-### Github stats: <img  align=left src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align=left src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/>
+### Github stats: <img  align= center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align= center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/>
 
 [![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=buefy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Github contributions: <img  align=left src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" />
+### Github contributions: <img  align= center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" />
 
 ![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
 
