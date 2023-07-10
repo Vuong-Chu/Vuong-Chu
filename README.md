@@ -12,20 +12,16 @@
           </details>
         </td>
   </tr>
+  <tr> 
+      <strong> Languages and Tools: </strong> <br />
+      <img align="left" alt="Python" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/python.svg" />
+      <img align="left" alt="C++" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/c.svg" />
+      <img align="left" alt="C++" width="32px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/MatLab.svg" />
+      <img align="left" alt="Java" width="35px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/java.svg" />
+      <img align="left" alt="R" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
+      <img align="left" alt="PowerBI" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" /> 
+  </tr>
 </table>
-
----
-
-### Languages and Tools:
-
-<img align="left" alt="Python" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/python.svg" />
-<img align="left" alt="C++" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/c.svg" />
-<img align="left" alt="C++" width="32px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/MatLab.svg" />
-<img align="left" alt="Java" width="35px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/java.svg" />
-<img align="left" alt="R" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
-<img align="left" alt="PowerBI" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
-
-<br />
 
 ---
 
