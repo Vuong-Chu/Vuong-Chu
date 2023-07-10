@@ -1,4 +1,4 @@
-<table border-collapse: collapse>
+<table >
   <tr>
     <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
     <td>
