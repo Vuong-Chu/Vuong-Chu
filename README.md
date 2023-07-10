@@ -3,8 +3,6 @@
 <table>
   <tr>
     <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
-  </tr>
-  <tr>
     <td><p>- 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java.
 - 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions.
 - 🔎 I’m looking to collaborate on projects related to financial time series data.
