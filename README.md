@@ -29,7 +29,7 @@
 
 ### Github stats: <img  align= center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align= center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/>
 
-[![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=buefy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="codeSTACKr's GitHub Stats" src="git-stats-kbq9no1td-vuong-chu.vercel.app/api?username=Vuong-Chu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ---
 ### Github contributions: <img  align= center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" />
