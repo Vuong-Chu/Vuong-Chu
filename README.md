@@ -8,6 +8,20 @@
 - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com
 </p>
 
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>- 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java.
+- 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions.
+- 🔎 I’m looking to collaborate on projects related to financial time series data.
+- 🔰 I love swimming, cycling and coding challenges.
+- 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p>
+  </div>
+</div>
+
 ---
 
 ### Languages and Tools:
