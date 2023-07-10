@@ -23,8 +23,6 @@
 <img align="left" alt="R" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
 <img align="left" alt="PowerBI" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
 
-![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
-
 <br />
 <br />
 
@@ -33,6 +31,11 @@
 ### Github stats:
 
 [![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=buefy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+---
+
+![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
 
 
 
