@@ -1,7 +1,6 @@
 ### Hi there, I’m @Vuong-Chu. <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
-<TABLE BORDER=”0″>
-<table>
+<table style="border: 0px solid transparent;">
   <tr>
     <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
     <td>
@@ -12,7 +11,6 @@
           - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p> </td>
   </tr>
 </table>
-</TABLE>
 
 ---
 
