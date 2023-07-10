@@ -32,7 +32,7 @@
 [![Vuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuong-Chu&theme=buefy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Github contributions: <img  align=center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="36" height="36" />
+### Github contributions: <img  align=center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="50" height="50" />
 
 ![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
 
