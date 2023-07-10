@@ -1,6 +1,6 @@
 <table >
   <tr>
-    <td style="text-align: center; vertical-align: middle;"> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt="Universe" width= "50%"> </td>
+    <td align="center"> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt="Universe" width= "50%"> </td>
     <td>
         <details>
         <summary> <h3> Hi there, I am @Vuong-Chu </h3> <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="66" height="66" /> <br /> <i> Click <b> here </b> to learn more about me!!! </i> </summary> <br /> <br />
