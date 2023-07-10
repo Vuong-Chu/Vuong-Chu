@@ -1,6 +1,5 @@
 <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.jpg" width="100%" height="100%">
 
-<iframe src="https://giphy.com/embed/l3c614V12UA82q1vG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-stars-universe-l3c614V12UA82q1vG">via GIPHY</a></p>
 
 ## Hi there, I’m @Vuong-Chu. <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
