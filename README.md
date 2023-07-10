@@ -1,6 +1,6 @@
 <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.jpg" width="100%" height="100%">
 
-## Hi there, I’m @Vuong-Chu. https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png
+## Hi there, I’m @Vuong-Chu. <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
 - 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java.
 
@@ -23,7 +23,7 @@
 <img align="left" alt="R" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/r.svg" />
 <img align="left" alt="PowerBI" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/power-bi.svg" />
 
-![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg">
 
 <br />
 <br />
