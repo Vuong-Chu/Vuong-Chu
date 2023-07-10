@@ -12,8 +12,8 @@
           </details>
         </td>
   </tr>
-  <tr colspan="2"> 
-    <td>
+  <tr> 
+    <td colspan="2">
       <strong> Languages and Tools: </strong> <br />
       <img align="left" alt="Python" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/python.svg" />
       <img align="left" alt="C++" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/c.svg" />
