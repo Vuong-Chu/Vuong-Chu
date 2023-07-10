@@ -1,18 +1,17 @@
 ### Hi there, I’m @Vuong-Chu. <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt="">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>- 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java.
+<table>
+  <tr>
+    <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
+  </tr>
+  <tr>
+    <td><p>- 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java.
 - 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions.
 - 🔎 I’m looking to collaborate on projects related to financial time series data.
 - 🔰 I love swimming, cycling and coding challenges.
-- 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p>
-  </div>
-</div>
+- 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p></td>
+  </tr>
+</table>
 
 ---
 
