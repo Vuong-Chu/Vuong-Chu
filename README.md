@@ -12,7 +12,7 @@
           </details>
         </td>
   </tr>
-  <tr> 
+  <tr colspan="2"> 
     <td>
       <strong> Languages and Tools: </strong> <br />
       <img align="left" alt="Python" width="30px" src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/python.svg" />
@@ -34,8 +34,6 @@
 ---
 ### Github contributions:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
 
 
