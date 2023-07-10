@@ -2,13 +2,15 @@
   <tr>
     <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
     <td>
-      <p> 
-        <h1> Hi there, I’m @Vuong-Chu. </h1> <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /> <br /> <br />
-          - 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java. <br /> <br />
+        <details>
+        <summary> <strong> Hi there, I’m @Vuong-Chu. </strong> <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /> </summary> <br /> <br />
+          <p> - 💖 I’m interested in translating all methods in Financial Econometrics/Computational Finance to well-designed functions in C++, Python, and Java. <br /> <br />
           - 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions. <br /> <br />
           - 🔎 I’m looking to collaborate on projects related to financial time series data. <br /> <br />
           - 🔰 I love swimming, cycling and coding challenges. <br /> <br />
-          - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p> </td>
+          - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p>
+          </details>
+        </td>
   </tr>
 </table>
 
@@ -34,7 +36,8 @@
 ---
 ### Github contributions:
 
-![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
