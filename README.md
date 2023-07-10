@@ -1,5 +1,5 @@
 <table cellpadding="0" cellspacing="0" border="0">
-  <tr>
+  <tr border: none!important;>
     <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
     <td>
       <p> 
