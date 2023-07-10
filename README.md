@@ -1,5 +1,5 @@
-<table cellpadding="0" cellspacing="0" border="0">
-  <tr border: none!important;>
+<table border-collapse: collapse>
+  <tr>
     <td> <img src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/Universe.gif" alt=""> </td>
     <td>
       <p> 
