@@ -12,7 +12,7 @@
 
 <strong> Github contributions: </strong> <img  align= center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" />
           
-![snake gif](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Vuong-Chu/Vuong-Chu/blob/output/github-contribution-grid-snake.svg)
           </details>
         </td>
   </tr>
