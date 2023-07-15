@@ -8,7 +8,7 @@
           - 🌱 I’m currently targeting to Quant developer/ Quant analyst/ Quant researcher positions. <br /> <br />
           - 🔎 I’m looking to collaborate on projects related to financial time series data. <br /> <br />
           - 🔰 I love swimming, cycling and coding challenges. <br /> <br />
-          - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com</p>
+          - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com. </p>
 
 <strong> Github contributions: </strong> <img  align= center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" />
           
