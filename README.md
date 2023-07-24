@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <strong> GitHub Stats: </strong> <img  align= center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align= center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/> <br /> <img align= center src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=F70A24FF&size=30&width=150&height=80&lines=====%3E+Code"/>
+      <strong> GitHub Stats: </strong> <img  align= center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align= center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/> <br /> <img align= center src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=F70A24FF&size=30&width=280&height=200&lines=I%E2%9D%A4%EF%B8%8FProgramming"/>
   
   <img align="left" src="https://git-stats-vuong.vercel.app/api?username=Vuong-Chu&show_icons=true&hide_border=false&title_color=DD571C&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=1a310f&hide_title=true" />
     </td>
