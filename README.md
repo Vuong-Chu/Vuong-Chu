@@ -10,7 +10,7 @@
           - 🔰 I love swimming, cycling and coding challenges. <br /> <br />
           - 📫 Feel free to reach out to me at minhvuong2992(at)gmail.com. </p>
 
-<strong> Github contributions: </strong> <img  align= center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" /> <img align= center src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=F70A24FF&size=20&width=100&height=80&lines=====%3E+Code"/>
+<strong> Github contributions: </strong> <img  align= center src="https://github.com/Vuong-Chu/Vuong-Chu/blob/main/savings-pig.gif" alt="Pig" width="60" height="60" /> <img align= center src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=F70A24FF&size=30&width=150&height=80&lines=====%3E+Code"/>
 
 <picture>
   <source
